@@ -1,10 +1,10 @@
 ---
-title: 'The best fullstack framework in 2024'
+title: 'The best fullstack framework in 2026'
 pubDate: 2026-12-20
 author: 'Brandon Sangma'
 image: 'webframeworks.png'
 tags: ['tech', 'code']
-slug: the-best-fullstack-framework-in-2024
+slug: the-best-fullstack-framework-in-2026
 ---
 
 

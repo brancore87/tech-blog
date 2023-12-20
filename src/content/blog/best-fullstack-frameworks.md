@@ -1,6 +1,6 @@
 ---
 title: 'The best fullstack framework in 2024'
-pubDate: 2023-12-20
+pubDate: 2026-12-20
 author: 'Brandon Sangma'
 image: 'webframeworks.png'
 tags: ['tech', 'code']
